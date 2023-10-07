@@ -3,16 +3,6 @@ package prauas;
 public class Sewa extends AbsSewa{
 
     @Override
-    String cekData(String nama) {
-        return super.cekData(nama); 
-    }
-    
-    @Override
-    public void total() {
-        super.total = 0; 
-    }
-
-    @Override
     public void pelayanan() {
         super.pelayanan();
     }
